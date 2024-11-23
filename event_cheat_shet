@@ -1,0 +1,22 @@
+
+ttq.identify({
+     email: 'メールアドレスの変数',
+     phone_number: '電話番号の変数',
+ })
+ttq.track('CompletePayment')
+
+
+
+https://ads.tiktok.com/marketing_api/docs?id=1701890973258754
+
+document.getElementById("wc-message-groups").addEventListener('click', function(){
+				console.log("Hello");
+			});
+
+document.getElementsByClassName("wc-webchat-ctn")[0].addEventListener('click', function()
+  {console.log("Hello");}
+);
+
+
+
+Frequency  1.46
